@@ -1,5 +1,6 @@
 # About
-This is a quick start project for Angular JS 2 found in https://angular.io/docs/ts/latest/quickstart.html
+This is a quick start project for Angular JS 2 found in https://angular.io/docs/ts/latest/quickstart.html.
+Live example: https://angular.io/resources/live-examples/quickstart/ts/plnkr.html.
 
 # Fixes
 Need ES6 features, import following for IE
